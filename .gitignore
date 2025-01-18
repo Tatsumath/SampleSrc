@@ -1,0 +1,27 @@
+# Visual Studio関連
+.vs/
+*.suo
+*.user
+*.opendb
+*.VC.db
+*.ipch
+
+# ビルド成果物
+*.obj
+*.exe
+*.dll
+*.pdb
+*.idb
+*.ilk
+*.log
+*.tlog
+*.lastbuildstate
+
+# ビルドディレクトリ
+Debug/
+Release/
+
+# その他
+*.log
+*.tmp
+*.bak
