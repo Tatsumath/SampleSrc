@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CEditTest", "CEditTest\CEdi
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CButtonTest", "CButtonTest\CButtonTest.vcxproj", "{A3CEBFBF-A329-43B1-963F-5587B86D201A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CComboBoxTest", "CComboBoxTest\CComboBoxTest.vcxproj", "{5D0F53FD-2139-482F-9422-CEDD6969EB5E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,6 +53,14 @@ Global
 		{A3CEBFBF-A329-43B1-963F-5587B86D201A}.Release|x64.Build.0 = Release|x64
 		{A3CEBFBF-A329-43B1-963F-5587B86D201A}.Release|x86.ActiveCfg = Release|Win32
 		{A3CEBFBF-A329-43B1-963F-5587B86D201A}.Release|x86.Build.0 = Release|Win32
+		{5D0F53FD-2139-482F-9422-CEDD6969EB5E}.Debug|x64.ActiveCfg = Debug|x64
+		{5D0F53FD-2139-482F-9422-CEDD6969EB5E}.Debug|x64.Build.0 = Debug|x64
+		{5D0F53FD-2139-482F-9422-CEDD6969EB5E}.Debug|x86.ActiveCfg = Debug|Win32
+		{5D0F53FD-2139-482F-9422-CEDD6969EB5E}.Debug|x86.Build.0 = Debug|Win32
+		{5D0F53FD-2139-482F-9422-CEDD6969EB5E}.Release|x64.ActiveCfg = Release|x64
+		{5D0F53FD-2139-482F-9422-CEDD6969EB5E}.Release|x64.Build.0 = Release|x64
+		{5D0F53FD-2139-482F-9422-CEDD6969EB5E}.Release|x86.ActiveCfg = Release|Win32
+		{5D0F53FD-2139-482F-9422-CEDD6969EB5E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
